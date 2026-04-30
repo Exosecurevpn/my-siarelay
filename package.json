@@ -1,0 +1,8 @@
+{
+  "name": "my-siarelay",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "my personal project",
+  "private": true,
+  "license": "MIT"
+}
